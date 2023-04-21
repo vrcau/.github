@@ -12,7 +12,7 @@ We are a small group which develops Sacc-based aircraft and supporting facilitie
 - 我们的 VRChat Group：[VAU.3770](https://vrc.group/VAU.3770)
 
 ## Projects we are currently working on
-- [V320neo](https://github.com/Heriyadi235/VAU320): A VRChat Airliner which is based on SaccFlightAndVehicles and has the simple simulation of A320neo aircraft systems.
+- [V320neo](https://github.com/vrcau/VAU320): A VRChat Airliner which is based on SaccFlightAndVehicles and has the simple simulation of A320neo aircraft systems.
 
 ## Contact us
 - Twitter: [@YUXI917](https://twitter.com/YUXI917)
