@@ -1,5 +1,5 @@
 # Hi👋 We are VRChat Aerospace University / VRChat 航空航天大学
-![Image](home.webp)
+![Image](https://github.com/vrcau/.github/raw/main/profile/home.webp)
 We are a small group which develops Sacc-based aircraft and supporting facilities.  
 我们是一个开发及制作基于 Sacc 系统的飞机及配套设施的小群组。
 
